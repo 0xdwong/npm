@@ -1,5 +1,5 @@
-function mian(){
+function sayHi(){
     console.log('Hello world')
 }
 
-mian();
+module.exports = sayHi;
