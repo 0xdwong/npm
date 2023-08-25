@@ -1,13 +1,13 @@
-function sayHi(){
+function sayHi() {
     console.log('Hello world')
 }
 
-function config(obj={}){
+function config(obj = {}) {
     global.config = obj;
 }
 
-function translate(origin){
-    return `translated by ${global.config.translator}: + origin`;
+function translate(origin) {
+    return `translated by ${global.config.translator}: ${origin}`;
 }
 
 module.exports = {
