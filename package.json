@@ -1,0 +1,22 @@
+{
+  "name": "@0xdwong/npm",
+  "version": "1.0.0",
+  "description": "All about npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xdwong/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "0xdwong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xdwong/npm/issues"
+  },
+  "homepage": "https://github.com/0xdwong/npm#readme"
+}
